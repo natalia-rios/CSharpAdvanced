@@ -1,2 +1,2 @@
 # CSharpAdvanced
-Solutions to the exercises from Mosh Hamedani's C# Advanced Course.
+Study annotations from Mosh Hamedani's  C# Advanced Course.
