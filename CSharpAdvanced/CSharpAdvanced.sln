@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{DD36E7C9-9A98-4ACB-B83B-F8BC6E1CDCAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{CBDBE15D-9F98-4292-8DA1-A426DD5D41CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{DD36E7C9-9A98-4ACB-B83B-F8BC6E1CDCAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD36E7C9-9A98-4ACB-B83B-F8BC6E1CDCAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD36E7C9-9A98-4ACB-B83B-F8BC6E1CDCAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBDBE15D-9F98-4292-8DA1-A426DD5D41CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBDBE15D-9F98-4292-8DA1-A426DD5D41CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBDBE15D-9F98-4292-8DA1-A426DD5D41CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBDBE15D-9F98-4292-8DA1-A426DD5D41CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
