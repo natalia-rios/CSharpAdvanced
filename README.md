@@ -1,2 +1,2 @@
 # CSharpAdvanced
-Study annotations from Mosh Hamedani's  C# Advanced Course.
+Study notes from Mosh Hamedani's  C# Advanced Course.
