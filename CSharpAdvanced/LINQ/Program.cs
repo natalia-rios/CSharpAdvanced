@@ -8,9 +8,9 @@
 
             // LINQ Extension Methods
             var cheapBooks = books
-                                                .Where(b => b.Price < 10)
-                                                .OrderBy(b => b.Title).
-                                                Select(b => b.Title);
+                .Where(b => b.Price < 10)
+                .OrderBy(b => b.Title)
+                .Select(b => b.Title);
 
             var singleBook = books.SingleOrDefault(b => b.Title == "ASP.NET MVC C++");
             
