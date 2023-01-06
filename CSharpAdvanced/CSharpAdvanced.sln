@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Dele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressions", "LambdaExpressions\LambdaExpressions.csproj", "{DA4FE520-B621-45D7-9003-442937C0E4B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{FAA53592-21FA-43FE-9255-AD7FB388252C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{DA4FE520-B621-45D7-9003-442937C0E4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA4FE520-B621-45D7-9003-442937C0E4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA4FE520-B621-45D7-9003-442937C0E4B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA53592-21FA-43FE-9255-AD7FB388252C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA53592-21FA-43FE-9255-AD7FB388252C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA53592-21FA-43FE-9255-AD7FB388252C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA53592-21FA-43FE-9255-AD7FB388252C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
