@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamic", "Dynamic\Dynamic.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{03027EF7-0B7D-413F-94D5-986CD573437E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async", "Async\Async.csproj", "{0B939B2B-4CBA-467E-8D4C-57CA10229F25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{03027EF7-0B7D-413F-94D5-986CD573437E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03027EF7-0B7D-413F-94D5-986CD573437E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03027EF7-0B7D-413F-94D5-986CD573437E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B939B2B-4CBA-467E-8D4C-57CA10229F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B939B2B-4CBA-467E-8D4C-57CA10229F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B939B2B-4CBA-467E-8D4C-57CA10229F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B939B2B-4CBA-467E-8D4C-57CA10229F25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
